@@ -1,0 +1,10 @@
+.country{
+    background-color: lightgreen;
+    margin: 10px;
+    padding: 5px;
+    border: 2px solid lightpink;
+    border-radius: 10px;
+}
+.country img{
+    width: 200px;
+}
